@@ -1,0 +1,11 @@
+﻿  networkStudent.cpp
+e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster\networkstudent.cpp(27): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  roster.cpp
+e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster\roster.cpp(4): fatal error C1083: Cannot open precompiled header file: 'x64\Debug\C867 final project student roster.pch': No such file or directory
+  securityStudent.cpp
+e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster\securitystudent.cpp(27): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  softwareStudent.cpp
+e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster\softwarestudent.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  student.cpp
+e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster\student.cpp(84): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

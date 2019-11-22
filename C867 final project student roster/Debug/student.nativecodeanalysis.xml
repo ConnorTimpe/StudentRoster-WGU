@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+      <FILENAME>student.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'student::daysToCompleteCourse' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>student::{ctor}</FUNCTION>
+    <DECORATED>??0student@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000HQAH@Z</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+      <FILENAME>student.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'student::degreeProgram' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>student::{ctor}</FUNCTION>
+    <DECORATED>??0student@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000HQAH@Z</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+      <FILENAME>roster.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'sDegreeProgram'.</DESCRIPTION>
+    <FUNCTION>roster::parseData</FUNCTION>
+    <DECORATED>?parseData@roster@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>48</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>36</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>36</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>36</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'sDegreeProgram' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>27</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'row.find("SECURITY", 0)!=npos' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>26</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'row.find("NETWORK", 0)!=npos' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>79</LINE>
+        <COLUMN>27</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume 'row.find("SOFTWARE", 0)!=npos' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\wgu\scripting and programming c867\c867 final project student roster\c867 final project student roster</FILEPATH>
+        <FILENAME>roster.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'sDegreeProgram' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
